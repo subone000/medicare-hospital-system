@@ -5,26 +5,18 @@ Built with **React**, **Tailwind CSS**, **Node.js**, **Express**, **Prisma**, an
 
 ---
 
-<details>
-<summary>📘 Click to expand full project details</summary>
-
-<br>
-
-
----
-
 ## 🚀 Getting Started
 
 ### 🔧 Backend Setup (`medicare-pro`)
-cd medicare-pro
-npm install
-npx prisma generate
-npm run dev
+- cd medicare-pro
+- npm install
+- npx prisma generate
+- npm run dev
 
 ### 🎨 Frontend Setup (medicare-frontend)
-cd medicare-frontend
-npm install
-npm run dev
+- cd medicare-frontend
+- npm install
+- npm run dev
 
 If you see 'vite' is not recognized, run npm install first to install dependencies.
 
@@ -48,9 +40,8 @@ Create a .env file in medicare-pro with:
 
 DATABASE_URL="mysql://user:password@localhost:3306/medicare"
 JWT_SECRET="your-secret-key"
-
 ⚠️ .env is excluded from Git tracking via .gitignore
 
-note the current ADMIN username and password is
+### Note : the current ADMIN username and password is
 email - admin@medicare.pro
 password - Admin@123
