@@ -43,5 +43,5 @@ JWT_SECRET="your-secret-key"
 ⚠️ .env is excluded from Git tracking via .gitignore
 
 ### Note : the current ADMIN username and password is
-email - admin@medicare.pro
-password - Admin@123
+- email - admin@medicare.pro
+- password - Admin@123
