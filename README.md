@@ -55,9 +55,7 @@ Use the following credentials to log in as an admin during evaluation:
 This app supports three user roles: **Admin**, **Doctor**, and **Patient**. Here's how to experience each flow:
 
 🔐 Admin Access  
-Use the demo credentials below to log in as an admin:  
-**Email**: `admin@medicare.pro`  
-**Password**: `Admin@123`  
+Use the demo credentials listed above to log in as an admin.
 
 Once logged in, the admin can:  
 - 🩺 Add and manage doctor accounts  
