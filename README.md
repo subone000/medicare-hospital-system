@@ -39,6 +39,7 @@ Create a .env file in medicare-pro with:
 
 DATABASE_URL="mysql://user:password@localhost:3306/medicare"
 JWT_SECRET="your-secret-key"
+
 ⚠️ if .env not there use the above format to create a new one
 
 ### Note : the current ADMIN username and password is
