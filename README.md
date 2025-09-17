@@ -70,7 +70,7 @@ After creating a doctor account via the admin dashboard:
 
 🧑‍⚕️ Patient Access  
 To explore the patient flow:  
-- Click **Sign Up** on the login page to create a patient account  
+- Click **Patient Register** on the login page to create a patient account  
 - Log in as a patient to:  
   - View and edit your profile  
   - Book or cancel appointments  
