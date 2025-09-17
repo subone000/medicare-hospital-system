@@ -21,11 +21,10 @@ Built with **React**, **Tailwind CSS**, **Node.js**, **Express**, **Prisma**, an
 If you see 'vite' is not recognized, run npm install first to install dependencies.
 
 ### 🔐 Role-Based Access
-
-Admin: Full access to manage doctors, patients, and appointments
-Doctor: View assigned patients, update records
-Patient: Book appointments, view prescriptions and history
-
+  - **ADMIN** → Full control (CRUD on patients, doctors, appointments).  
+  - **DOCTOR** → accept/reject appointments.  
+  - **PATIENT** → Can view/edit their profile, Can register themselves, book/delete appointments, view doctors.
+    
 ### 🧠 Tech Stack
 Layer	Technology
 Frontend	React, Tailwind CSS
