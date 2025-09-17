@@ -18,21 +18,23 @@ Built with **React**, **Tailwind CSS**, **Node.js**, **Express**, **Prisma**, an
 - npm install
 - npm run dev
 
-If you see 'vite' is not recognized, run npm install first to install dependencies.
+If you get 'vite' is not recognized, ensure dependencies are installed with npm install.
 
 ### 🔐 Role-Based Access
   - **ADMIN** → Manage patients, doctors, appointments.  
   - **DOCTOR** → accept/reject appointments.  
-  - **PATIENT** → Can view/edit their profile, Can register themselves, book/delete appointments, view doctors.
+  - **PATIENT** → can manage their profile, can self-register, book/delete appointments, view doctors.
     
 ### 🧠 Tech Stack
-Layer	Technology
-Frontend	React, Tailwind CSS
-Backend	Node.js, Express
-ORM	Prisma
-Database	MySQL
-Auth	JWT-based authentication
-Dev Tools	Vite, Nodemon
+
+| Layer       | Technology         |
+|-------------|--------------------|
+| Frontend    | React, Tailwind CSS|
+| Backend     | Node.js, Express   |
+| ORM         | Prisma             |
+| Database    | MySQL              |
+| Auth        | JWT-based          |
+| Dev Tools   | Vite, Nodemon      |
 
 ### 📦 Environment Variables
 Create a .env file in medicare-pro with:
@@ -42,6 +44,8 @@ JWT_SECRET="your-secret-key"
 
 ⚠️ if .env not there use the above format to create a new one.
 
-### Note : the current ADMIN username and password is
-- email - admin@medicare.pro
-- password - Admin@123
+### 🔐 Demo Admin Credentials  
+Use the following credentials to log in as an admin during evaluation:  
+**Email**: `admin@medicare.pro`  
+**Password**: `Admin@123`  
+*Note: These are default credentials for demo purposes only.*
