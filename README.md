@@ -49,3 +49,33 @@ Use the following credentials to log in as an admin during evaluation:
 **Email**: `admin@medicare.pro`  
 **Password**: `Admin@123`  
 *Note: These are default credentials for demo purposes only.*
+
+### 🧭 How to Explore the App
+
+This app supports three user roles: **Admin**, **Doctor**, and **Patient**. Here's how to experience each flow:
+
+🔐 Admin Access  
+Use the demo credentials below to log in as an admin:  
+**Email**: `admin@medicare.pro`  
+**Password**: `Admin@123`  
+
+Once logged in, the admin can:  
+- 🩺 Add and manage doctor accounts  
+- 👥 View and manage patient records  
+- 📅 Oversee appointment scheduling  
+
+👨‍⚕️ Doctor Access  
+After creating a doctor account via the admin dashboard:  
+- Log in using the newly created doctor credentials  
+- Access the **Doctor Dashboard**  
+- Accept or reject appointment requests from patients  
+
+🧑‍⚕️ Patient Access  
+To explore the patient flow:  
+- Click **Sign Up** on the login page to create a patient account  
+- Log in as a patient to:  
+  - View and edit your profile  
+  - Book or cancel appointments  
+  - Browse available doctors  
+
+This walkthrough demonstrates the full role-based access system and dashboard functionality.
