@@ -31,6 +31,8 @@ It manages patients, doctors, and appointments with secure role-based access.
 ---
 
 ## ▶️ How to Run
+This project can be run locally (no deployment required).
+
 ```bash
 # Backend
 cd medicare-pro
